@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Control Xbox Series X",
+        "precio": 44990,
+        "descripcion": "Control inalámbrico, compatible con PC.",
+        "imagen": "assets/img/Control_Xbox_One.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Nintendo Switch 2",
+        "precio": 329990,
+        "descripcion": "Consola portátil de nueva generación.",
+        "imagen": "assets/img/Nintendo-Switch-2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Steam Machine",
+        "precio": 399990,
+        "descripcion": "Consola de escritorio con SteamOS y accesorios.",
+        "imagen": "assets/img/Steam_Machine.jpg"
+    }
+]
